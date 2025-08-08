@@ -1,3 +1,5 @@
+<img width="49" height="49" alt="{5244516C-834A-490A-86CA-4CDC4842FB82}" src="https://github.com/user-attachments/assets/8565f16b-c27a-4400-8df7-473f6f58a2f4" />
+
 # SOS Clean House
 
 O projeto consiste no desenvolvimento de um sistema para gerenciar agendas de prestadores de serviços de limpeza autônomos, como diaristas e faxineiras. A plataforma permitirá que esses profissionais cadastrem seus horários disponíveis, valores, locais de atendimento e bloqueiem datas específicas para auto controle da agenda. As contratações e os pagamentos ocorrerão diretamente pelo sistema.
